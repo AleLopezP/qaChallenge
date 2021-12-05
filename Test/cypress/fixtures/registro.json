@@ -1,0 +1,6 @@
+{
+    "email": "#email",
+    "password": "#password",
+    "registroButton": "#register",
+    "registroResult":"#msg"
+  }

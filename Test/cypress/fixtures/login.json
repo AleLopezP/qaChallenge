@@ -1,0 +1,6 @@
+{
+    "email": "#email",
+    "password": "#password",
+    "loginButton": "#login",
+    "loginResult":"#msg"
+  }
